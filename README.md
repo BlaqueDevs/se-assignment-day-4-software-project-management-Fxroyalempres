@@ -21,10 +21,12 @@ Effective cost control ensures that resources are used efficiently, reducing fin
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 *Agile methodology* - is flexible and iterative, making it appropriate for projects with ever-changing requirements.  Development is separated into short sprints (usually 2-4 weeks) with frequent feedback.
-**Advantages include**:
+
+**Advantages**:
  - Increased adaptability
  - Consumer interaction
  - Speedier issue resolution.
+ - 
 **Disadvantages**: 
  - Stakeholders must actively participate
  - Bad planning might result in misalignment.
