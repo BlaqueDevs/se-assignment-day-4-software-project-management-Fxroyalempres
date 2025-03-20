@@ -34,7 +34,20 @@ Effective cost control ensures that resources are used efficiently, reducing fin
 *For example*
 - An e-commerce company developing a shopping app may utilize Agile to release tiny features such as a payment gateway or wishlist, gaining feedback before the next sprint begins
 
-  
+**Waterfall methodology** - is a linear, step-by-step procedure that requires each phase to be completed before going on to the next.  It is best suited to tasks with specific, unchanging requirements.
+
+**Advantages**: 
+- A well-defined structure
+- Clear timetables
+- Easy progress tracking.
+
+ **Disadvantages**: 
+ - It is difficult to make modifications once work begins
+ - Problems are frequently discovered later.
+
+ *For example*
+ - A hospital that is establishing an electronic health record system uses Waterfall due to the tight timetable and regulatory restrictions.
+
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 
