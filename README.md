@@ -26,10 +26,11 @@ Effective cost control ensures that resources are used efficiently, reducing fin
  - Increased adaptability
  - Consumer interaction
  - Speedier issue resolution.
- - 
+
 **Disadvantages**: 
  - Stakeholders must actively participate
  - Bad planning might result in misalignment.
+
 *For example*
 - An e-commerce company developing a shopping app may utilize Agile to release tiny features such as a payment gateway or wishlist, gaining feedback before the next sprint begins
 
