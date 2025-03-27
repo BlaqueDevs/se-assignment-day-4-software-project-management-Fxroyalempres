@@ -145,34 +145,22 @@ Gantt Charts assist in this process as:
 
 ## 12. What data is available regarding the market size and growth potential for your software?
 
-The personal finance software market was valued at $1.4 billion in 2022 and is expected to grow at a CAGR of 5.7% from 2023 to 2030 (Source: Grand View Research).
+My personal finance software market is worth $1.4 billion in 2025 and I predict it to increase at a CAGR of 5.7% between 2023 and 2030
 
-Growth is driven by:
-
-Increasing digital banking adoption and mobile payment solutions.
-
-More people looking for automated budgeting and financial tracking tools.
-
-Growing awareness of financial literacy and wealth management.
-
-
-Millennials and Gen Z are key users, as they prefer mobile apps for budgeting, saving, and investing.
+ **Growth will be fueled by**:
+ - Increasing the use of digital banking and mobile payment alternatives.
+ - More consumers are looking for automatic budgeting and tracking systems.
+ - Raising awareness of financial literacy and asset management.
+ - Millennials and Generation Z are heavy users, preferring smartphone apps for budgeting, saving, and investing.
 
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
-People want AI budgeting → Add smart savings & spending tips.
-
-Cashless payments are growing → Link to banks & mobile wallets.
-
-Subscription models work better → Offer free basic features + paid premium ones.
-
-Users want financial education → Add money tips & budgeting guides.
-
-Security is a big concern → Use strong encryption & secure logins.
-
-Customization makes apps fun → Let users set goals & track progress.
-
-
-Following these trends makes the app useful, popular, and competitive!
+- People want AI budgeting with smart savings and spending suggestions.
+- Cashless payments are increasing →  Link to banks and mobile wallets.Subscription models function better.
+- Offer both free basic features and paid premium ones.
+- Users desire financial education, so include money tips and budgeting instructions.
+- Strong encryption and secure logins are crucial for ensuring security.
+- App customization enhances user experience by allowing for goal setting and progress tracking.
+- Following these patterns increases the app's usefulness, popularity, and competitiveness!
 
 
