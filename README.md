@@ -128,30 +128,18 @@ Gantt Charts assist in this process as:
 
 
 ## 11. What are the main features or functionalities that make your software stand out?
-The key features of my personal budget management app include:
-
- AI-Powered Budgeting  The software analyzes users' spending behavior and recommends sensible budgets.
-
- Bank and mobile wallet integration allows for real-time tracking of transactions across various accounts.
-
- Automated Savings Goals ↑ Easily set and achieve financial goals.
-
- Bill Payment Reminders: Avoid late fees by receiving warnings about upcoming payments.
-
- Expense Categorization → Sorts spending by category (e.g. food, rent, entertainment).
-
- The Financial Education Hub offers money-saving techniques, investing insights, and budgeting guidelines.
-
- Secure Data Encryption: Protects critical financial information with bank-level security.
-
- Gamified Progress Tracking: Users receive awards for conserving money and adhering to budgets.
-
- Multi-Currency and International Support: Ideal for tourists and those with foreign currency need.
-
- Customizable reports and insights provide thorough financial summaries to improve decision-making.
-
-
-These features make the app simple, secure, and smart, helping users take full control of their finances!
+*The key features of my personal budget management app include*:
+1. **AI-Powered Budgeting** - The software analyzes users' spending behavior and recommends sensible budgets.
+2. **Bank and mobile wallet integration** - allows for real-time tracking of transactions across various accounts.
+3. **Automated Savings Goals** - ↑ Easily set and achieve financial goals.
+4. **Bill Payment Reminders** - Avoid late fees by receiving warnings about upcoming payments.
+5. **Expense Categorization** - Sorts spending by category (e.g. food, rent, entertainment).
+6. **The Financial Education Hub** - offers money-saving techniques, investing insights, and budgeting guidelines.
+7. **Secure Data Encryption** - Protects critical financial information with bank-level security.
+8. **Gamified Progress Tracking** - Users receive awards for conserving money and adhering to budgets.
+9. **Multi-Currency and International Support** - Ideal for tourists and those with foreign currency need.
+10. **Customizable reports and insights** - provide thorough financial summaries to improve decision-making.
+- These features make the app simple, secure, and smart, helping users take full control of their finances!
 
 
 
